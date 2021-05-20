@@ -10,6 +10,8 @@ For operating zones, the name will be listed in properties as "name", "type", an
 
 ### Data
 
-[x] Add Speed Limit Suggestions from City on 5/5/2021 -- Done, located at [speed-limit-suggestions-5-5-2021.json](https://github.com/kevinamezaga/miami-scooter-geo-data/blob/main/speed-limit-suggestions-5-5-2021.json)
+[x] Add Speed Limit Suggestions from City on 5/5/2021 -- Done, located at [speed-limit-zones.json](https://github.com/kevinamezaga/miami-scooter-geo-data/blob/main/speed-limit-zones.json)
 
 [x] Add Geofenced No Parking Zones -- In Progress at [no-parking-zones.json](https://github.com/kevinamezaga/miami-scooter-geo-data/blob/main/no-parking-zones.json)
+
+[x] Create Compiled JSON file of all zones
