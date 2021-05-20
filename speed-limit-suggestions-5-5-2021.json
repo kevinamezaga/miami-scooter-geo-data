@@ -10,7 +10,8 @@
         "fill": "#ff0000",
         "fill-opacity": 0.5,
         "name": "Brickell-Downtown Slow Zone",
-        "speed": 10
+        "speed": 10,
+        "type": "speed-zone"
       },
       "geometry": {
         "type": "Polygon",
@@ -156,8 +157,9 @@
         "stroke-opacity": 1,
         "fill": "#00ff40",
         "fill-opacity": 0.5,
-        "name": "North D2",
-        "speed": 12
+        "name": "North D2 Speed Zone",
+        "speed": 12,
+        "type": "speed-zone"
       },
       "geometry": {
         "type": "Polygon",
@@ -275,8 +277,9 @@
         "stroke-opacity": 1,
         "fill": "#00ff40",
         "fill-opacity": 0.5,
-        "name": "South D2",
-        "speed": 12
+        "name": "South D2 Speed Zone",
+        "speed": 12,
+        "type": "speed-zone"
       },
       "geometry": {
         "type": "Polygon",
