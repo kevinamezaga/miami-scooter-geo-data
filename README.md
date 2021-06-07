@@ -14,4 +14,4 @@ For operating zones, the name will be listed in properties as "name", "type", an
 
 [x] Add Geofenced No Parking Zones -- In Progress at [no-parking-zones.json](https://github.com/kevinamezaga/miami-scooter-geo-data/blob/main/no-parking-zones.json)
 
-[] Create Compiled JSON file of all zones
+[x] Create Compiled JSON file of all zones
